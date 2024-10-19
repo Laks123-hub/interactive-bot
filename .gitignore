@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python bytecode files
+*.pyc
+
+# IDE settings (e.g., VSCode, IntelliJ)
+.vscode/
+.idea/
+
+# Other unwanted files
+*.log
+*.bak
+*.swp
+
+# Virtual environment
+venv/
+env/
